@@ -13,8 +13,8 @@ The objective of this lab is to downsample a grayscale Lena image using the cv2.
 ## Lab 4: Rotating an image
 The goal of this lab is to find the angle of inclination of the Leaning Tower of Pisa image using appropriate rotations with bilinear interpolation. The rotation is performed using both user-defined and predefined functions.
 
-## Lab 5 : Histogram equlisation and Histogram Matching
-In this lab we need perfrom Histogram equlisation on pout-dark image and Histogram Matching on pout-dark image keeping reference image as pout-bright image. These operations performed using both user defined and using inbuilt function
+## Lab 5 : Histogram equalization and Histogram Matching
+In this lab we need perfrom Histogram equalization on pout-dark image and Histogram Matching on pout-dark image keeping reference image as pout-bright image. These operations performed using both user defined and using inbuilt function
 
 
 
