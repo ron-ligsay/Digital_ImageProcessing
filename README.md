@@ -26,4 +26,4 @@ In this lab we take a regular lena image and we add salt and pepper noise to it 
 * Numpy library
 * Matplotlib.pyplot
 * skimage
-*imgaug
+* imgaug
