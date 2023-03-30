@@ -16,6 +16,8 @@ The goal of this lab is to find the angle of inclination of the Leaning Tower of
 ## Lab 5 : Histogram equalization and Histogram Matching
 In this lab we need perfrom Histogram equalization on pout-dark image and Histogram Matching on pout-dark image keeping reference image as pout-bright image. These operations performed using both user defined and using inbuilt function
 
+## Lab 6 : Correlate each noisy Lena image with Gaussian filters
+In this lab we take a regular lena image and we add salt and pepper noise to it in increseing order of noise and make 10 copies of noisy images and then we correlate the each noisy image with Gaussian filters of varing sizes say 3*3 ,5*5 ,7*7 and repeating the same process using user defined correlation function
 
 
 # Requirements
@@ -24,4 +26,4 @@ In this lab we need perfrom Histogram equalization on pout-dark image and Histog
 * Numpy library
 * Matplotlib.pyplot
 * skimage
-
+* imgaug
